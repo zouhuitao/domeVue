@@ -24,7 +24,7 @@ export default {
     var option = {
       xAxis: {
         type: 'category',
-        data: ["第一季度","第二季度","第三季度","第四季度"]
+        data: ["第一季度","第二季度","第3季度","第四季度"]
       },
       yAxis: {
         type: 'value'
